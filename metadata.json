@@ -1,0 +1,6 @@
+{
+  "name": "Sparky Scalper Pro",
+  "description": "AI Forex & Crypto Chart Scanner & Automated Trading EA Assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
